@@ -20,7 +20,7 @@
 
 <!-- Spotify Playing -->
 <br/>
-<a href="https://open.spotify.com/user/31xxxxxxx"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/></a>
+<a href="https://open.spotify.com/user/vt5k8kwcp1u2wu94m6806ev00"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/></a>
 
 </div>
 
