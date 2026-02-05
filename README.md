@@ -257,7 +257,7 @@ const panzz = {
 
 <a href="https://t.me/irfanff9"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="http://panzzstore.web.id"><img src="https://img.shields.io/badge/Visit-PanzzStore-blueviolet?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
-<a href="https://wa.me/62xxxxxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/628988999399"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 
 ```
