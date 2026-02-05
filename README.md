@@ -259,14 +259,6 @@ const panzz = {
 <a href="http://panzzstore.web.id"><img src="https://img.shields.io/badge/Visit-PanzzStore-blueviolet?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
 <a href="https://wa.me/62xxxxxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<br/><br/>
-
-### 💡 Support My Work
-
-<a href="https://saweria.co/PanzzDevv"><img src="https://img.shields.io/badge/Saweria-F2A73B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Saweria"/></a>
-<a href="https://trakteer.id/PanzzDevv"><img src="https://img.shields.io/badge/Trakteer-BE1E2D?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Trakteer"/></a>
-
-<br/><br/>
 
 ```
 ⭐ Star my repos if you find them useful!
