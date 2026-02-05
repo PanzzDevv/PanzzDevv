@@ -239,52 +239,6 @@ const panzz = {
 
 ---
 
-## 💼 Services
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 Bot Development
-![Bot](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-Custom bot dengan fitur sesuai kebutuhan
-
-</td>
-<td align="center" width="33%">
-
-### 🔒 Script Protection
-![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-
-Hard ENC & Obfuscation
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Web Development
-![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-Landing Page, E-commerce, Dashboard
-
-</td>
-</tr>
-</table>
-
-| 🛒 Service | 💰 Price | 📞 Contact |
-|:-----------|:---------|:-----------|
-| Custom WhatsApp Bot | Mulai 50K | [Chat Now](https://t.me/irfanff9) |
-| Custom Telegram Bot | Mulai 50K | [Chat Now](https://t.me/irfanff9) |
-| Script Obfuscation (Hard ENC) | Mulai 25K | [Chat Now](https://t.me/irfanff9) |
-| Web Development | Mulai 100K | [Chat Now](https://t.me/irfanff9) |
-| Bot Recoding | Mulai 30K | [Chat Now](https://t.me/irfanff9) |
-
-</div>
-
----
-
 ## 🎵 Now Playing
 
 <div align="center">
